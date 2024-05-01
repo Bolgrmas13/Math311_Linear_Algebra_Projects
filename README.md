@@ -4,7 +4,7 @@ This is a repository of projects for the Math 311 linear algebra course at Winon
 
 # Projects 
 
-1. Solve systems using colab and python. 
+1: Solve systems using colab and python. 
 https://github.com/Bolgrmas13/Math311_Linear_Algebra_Projects/blob/main/Copy_of_Math_311_solve_systems_using_computation_and_rref.ipynb
 
 2: The Skill hill example: Using Colab to slove transition matrices. 
@@ -16,6 +16,4 @@ https://github.com/Bolgrmas13/Math311_Linear_Algebra_Projects/blob/main/Copy_of_
 4: Gram-Schmidt process: Using vectors to find perfect vectors
 https://github.com/Bolgrmas13/Math311_Linear_Algebra_Projects/blob/main/Gram_Schmidt.ipynb
 
-5. The impact of singualr Vaules: Finding pictures with Egienvaules and Egienvectors.  https://github.com/Bolgrmas13/Math311_Linear_Algebra_Projects/blob/main/Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb
-
-5
+5: The impact of singualr Vaules: Finding pictures with Egienvaules and Egienvectors.  https://github.com/Bolgrmas13/Math311_Linear_Algebra_Projects/blob/main/Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb
